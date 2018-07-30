@@ -3,18 +3,31 @@ Useful Hacking Web sites
 
 Online tutorial Site
 http://cybrary.it/
+
 https://www.lynda.com/
+
 http://www.computerscienceonline.org/courses/
+
 https://www.coursera.org/
+
 https://hak5.org/
+
 http://www.tinkernut.com/
+
 http://www.n0where.net/
+
 http://www.hackaday.com/
+
 http://www.evilzone.org/
+
 https://www.hackthissite.org/
+
 http://www.cellphonehacks.com/
+
 http://www.hacksociety.net/
+
 http://www.offensivecommunity.net/
+
 http://alienvault-blogs.com
 
 • Security – Cisco Blog
